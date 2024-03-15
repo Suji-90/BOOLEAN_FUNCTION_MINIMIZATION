@@ -45,8 +45,8 @@ assign x5=(B)&(~C)&(D);
 assign F1=x1|x2|x3|x4|x5;
 endmodule
 
-Developed by:N.NAVYA SREE
-RegisterNumber:212223040138
+Developed by:Ssujithra.K
+RegisterNumber:212223040212
 
 **RTL realization**
 
